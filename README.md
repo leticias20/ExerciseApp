@@ -1,1 +1,1 @@
-Exercise app, to practice streams and others. ~.~
+Exercise app, to practice streams and others. 
